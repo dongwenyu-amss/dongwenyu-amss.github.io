@@ -41,21 +41,6 @@
     <loc>https://dongwenyu-amss.github.io/categories/themes/</loc>
     <lastmod>2019-03-11T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://dongwenyu-amss.github.io/p/placeholder-text/</loc>
-    <lastmod>2019-03-09T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://dongwenyu-amss.github.io/tags/tag-with-whitespaces/</loc>
-    <lastmod>2019-03-09T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://dongwenyu-amss.github.io/categories/test/</loc>
-    <lastmod>2019-03-09T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://dongwenyu-amss.github.io/categories/test-with-whitespaces/</loc>
-    <lastmod>2019-03-09T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://dongwenyu-amss.github.io/tags/text/</loc>
-    <lastmod>2019-03-09T00:00:00+00:00</lastmod>
-  </url><url>
     <loc>https://dongwenyu-amss.github.io/p/math-typesetting/</loc>
     <lastmod>2019-03-08T00:00:00+00:00</lastmod>
   </url><url>
@@ -63,5 +48,7 @@
     <lastmod>2020-10-09T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://dongwenyu-amss.github.io/search/</loc>
+  </url><url>
+    <loc>https://dongwenyu-amss.github.io/categories/test/</loc>
   </url>
 </urlset>
