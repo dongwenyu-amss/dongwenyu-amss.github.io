@@ -16,7 +16,7 @@
         <description>&lt;h3 id=&#34;question&#34;&gt;Question
 &lt;/h3&gt;&lt;p&gt;考虑变分问题：&lt;/p&gt;
 $$
-    min_{u\in H} I(u)
+    \min_{u\in H} I(u)
 $$&lt;p&gt;其中&lt;/p&gt;
 $$
     I(u)=\int_{\Omega}(\frac{1}{2}|\nabla u(x)|^2-f(x)u(x))dx
@@ -46,11 +46,11 @@ $$
     g(x;\theta)=\frac{1}{2}|\nabla u(x;\theta)|^2-f(x)u(x;\theta)
 $$&lt;p&gt;从而得到优化问题如下：&lt;/p&gt;
 $$
-    min_{\theta} L(\theta),  L(\theta)=\int_{\Omega}g(x;\theta)dx
+    \min_{\theta} L(\theta),  L(\theta)=\int_{\Omega}g(x;\theta)dx
 $$&lt;h4 id=&#34;sgd-and-quadrature-rule&#34;&gt;SGD and Quadrature Rule
 &lt;/h4&gt;&lt;p&gt;在机器学习中，优化问题通常表示为以下形式：&lt;/p&gt;
 $$
-    min_{x\in R^d}L(\theta):= \frac{1}{N}\sum_{i=1}^N L_i(\theta)
+    \min_{x\in R^d}L(\theta):= \frac{1}{N}\sum_{i=1}^N L_i(\theta)
 $$&lt;p&gt;右端项中，每一项对应一个数据点，N通常很大，对于这个问题，可以选用随机梯度下降法：&lt;/p&gt;
 $$
     \theta^{k+1}=\theta^k -\eta\nabla L_{\gamma^k}(\theta^k)

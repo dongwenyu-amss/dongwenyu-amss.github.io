@@ -280,7 +280,7 @@
     <h3 id="question">Question
 </h3><p>考虑变分问题：</p>
 $$
-    min_{u\in H} I(u)
+    \min_{u\in H} I(u)
 $$<p>其中</p>
 $$
     I(u)=\int_{\Omega}(\frac{1}{2}|\nabla u(x)|^2-f(x)u(x))dx
@@ -310,11 +310,11 @@ $$
     g(x;\theta)=\frac{1}{2}|\nabla u(x;\theta)|^2-f(x)u(x;\theta)
 $$<p>从而得到优化问题如下：</p>
 $$
-    min_{\theta} L(\theta),  L(\theta)=\int_{\Omega}g(x;\theta)dx
+    \min_{\theta} L(\theta),  L(\theta)=\int_{\Omega}g(x;\theta)dx
 $$<h4 id="sgd-and-quadrature-rule">SGD and Quadrature Rule
 </h4><p>在机器学习中，优化问题通常表示为以下形式：</p>
 $$
-    min_{x\in R^d}L(\theta):= \frac{1}{N}\sum_{i=1}^N L_i(\theta)
+    \min_{x\in R^d}L(\theta):= \frac{1}{N}\sum_{i=1}^N L_i(\theta)
 $$<p>右端项中，每一项对应一个数据点，N通常很大，对于这个问题，可以选用随机梯度下降法：</p>
 $$
     \theta^{k+1}=\theta^k -\eta\nabla L_{\gamma^k}(\theta^k)
