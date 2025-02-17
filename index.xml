@@ -141,7 +141,7 @@ $$&lt;p&gt;这里$H$为试验函数空间，$f$为源项。&lt;/p&gt;
 &lt;p&gt;3.求解最终优化问题的算法&lt;/p&gt;
 &lt;h3 id=&#34;method&#34;&gt;Method
 &lt;/h3&gt;&lt;h4 id=&#34;trial-function&#34;&gt;Trial Function
-&lt;/h4&gt;&lt;p&gt;Deep Ritz方法的核心是一个由深度神经网络定义的非线性变换 $z_{\theta}(x)\in R^m$ ，$\theta$ 为参数。一个神经网络中，每一层都由几个块堆叠而成，每个块中包含两个线性变换，两个激活韩素以及一个残差连接，其输入s和输出t都是 $R^m$维向量，第i个块可以表示为：&lt;/p&gt;
+&lt;/h4&gt;&lt;p&gt;Deep Ritz方法的核心是一个由深度神经网络定义的非线性变换 $z_{\theta}(x)\in R^m$ ，$\theta$ 为参数。一个神经网络中，每一层都由几个块堆叠而成，每个块中包含两个线性变换，两个激活函数以及一个残差连接，其输入s和输出t都是 $R^m$维向量，第i个块可以表示为：&lt;/p&gt;
 $$
     t=f_i(s)=\phi(W_{i,2}\cdot\phi(W_{i,1}s+b_{i,1})+b_{i,2})+s
 $$&lt;p&gt;其中， $W_{i,1},W_{i,2}\in R^{m\times m},b_{i,1},b_{i,2}\in R^m$ 是参数， $\phi$为激活函数，这里选用&lt;/p&gt;
