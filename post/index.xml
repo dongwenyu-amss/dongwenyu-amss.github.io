@@ -2,78 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
     <channel>
         <title>Posts on Dong Wenyu</title>
-        <link>http://localhost:1313/post/</link>
+        <link>https://dongwenyu-amss.github.io/post/</link>
         <description>Recent content in Posts on Dong Wenyu</description>
         <generator>Hugo -- gohugo.io</generator>
         <language>en</language>
         <copyright>Dong Wenyu</copyright>
-        <lastBuildDate>Sat, 24 May 2025 00:00:00 +0000</lastBuildDate><atom:link href="http://localhost:1313/post/index.xml" rel="self" type="application/rss+xml" /><item>
-        <title>2025年5月24日 凤凰传奇军训</title>
-        <link>http://localhost:1313/p/2025%E5%B9%B45%E6%9C%8824%E6%97%A5-%E5%87%A4%E5%87%B0%E4%BC%A0%E5%A5%87%E5%86%9B%E8%AE%AD/</link>
-        <pubDate>Sat, 24 May 2025 00:00:00 +0000</pubDate>
-        
-        <guid>http://localhost:1313/p/2025%E5%B9%B45%E6%9C%8824%E6%97%A5-%E5%87%A4%E5%87%B0%E4%BC%A0%E5%A5%87%E5%86%9B%E8%AE%AD/</guid>
-        <description>&lt;img src="http://localhost:1313/p/2025%E5%B9%B45%E6%9C%8824%E6%97%A5-%E5%87%A4%E5%87%B0%E4%BC%A0%E5%A5%87%E5%86%9B%E8%AE%AD/1.jpg" alt="Featured image of post 2025年5月24日 凤凰传奇军训" /&gt;&lt;p&gt;过生日，以及第一次和ZCX一起去看演唱会，拍照技术被狠狠吐槽了，以后好好练。(还有一些照片没传)
-&lt;img src=&#34;http://localhost:1313/p/2025%E5%B9%B45%E6%9C%8824%E6%97%A5-%E5%87%A4%E5%87%B0%E4%BC%A0%E5%A5%87%E5%86%9B%E8%AE%AD/1.jpg&#34;
-	width=&#34;6000&#34;
-	height=&#34;4000&#34;
-	srcset=&#34;http://localhost:1313/p/2025%E5%B9%B45%E6%9C%8824%E6%97%A5-%E5%87%A4%E5%87%B0%E4%BC%A0%E5%A5%87%E5%86%9B%E8%AE%AD/1_hu7171382274574274136.jpg 480w, http://localhost:1313/p/2025%E5%B9%B45%E6%9C%8824%E6%97%A5-%E5%87%A4%E5%87%B0%E4%BC%A0%E5%A5%87%E5%86%9B%E8%AE%AD/1_hu12341137082483299037.jpg 1024w&#34;
-	loading=&#34;lazy&#34;
-	
-	
-		class=&#34;gallery-image&#34; 
-		data-flex-grow=&#34;150&#34;
-		data-flex-basis=&#34;360px&#34;
-	
-&gt;
-&lt;img src=&#34;http://localhost:1313/p/2025%E5%B9%B45%E6%9C%8824%E6%97%A5-%E5%87%A4%E5%87%B0%E4%BC%A0%E5%A5%87%E5%86%9B%E8%AE%AD/2.jpg&#34;
-	width=&#34;2880&#34;
-	height=&#34;2160&#34;
-	srcset=&#34;http://localhost:1313/p/2025%E5%B9%B45%E6%9C%8824%E6%97%A5-%E5%87%A4%E5%87%B0%E4%BC%A0%E5%A5%87%E5%86%9B%E8%AE%AD/2_hu17195387546829741390.jpg 480w, http://localhost:1313/p/2025%E5%B9%B45%E6%9C%8824%E6%97%A5-%E5%87%A4%E5%87%B0%E4%BC%A0%E5%A5%87%E5%86%9B%E8%AE%AD/2_hu9633356585090349418.jpg 1024w&#34;
-	loading=&#34;lazy&#34;
-	
-	
-		class=&#34;gallery-image&#34; 
-		data-flex-grow=&#34;133&#34;
-		data-flex-basis=&#34;320px&#34;
-	
-&gt;
-&lt;img src=&#34;http://localhost:1313/p/2025%E5%B9%B45%E6%9C%8824%E6%97%A5-%E5%87%A4%E5%87%B0%E4%BC%A0%E5%A5%87%E5%86%9B%E8%AE%AD/3.jpg&#34;
-	width=&#34;4018&#34;
-	height=&#34;3034&#34;
-	srcset=&#34;http://localhost:1313/p/2025%E5%B9%B45%E6%9C%8824%E6%97%A5-%E5%87%A4%E5%87%B0%E4%BC%A0%E5%A5%87%E5%86%9B%E8%AE%AD/3_hu53921952161943211.jpg 480w, http://localhost:1313/p/2025%E5%B9%B45%E6%9C%8824%E6%97%A5-%E5%87%A4%E5%87%B0%E4%BC%A0%E5%A5%87%E5%86%9B%E8%AE%AD/3_hu16383798820028739506.jpg 1024w&#34;
-	loading=&#34;lazy&#34;
-	
-	
-		class=&#34;gallery-image&#34; 
-		data-flex-grow=&#34;132&#34;
-		data-flex-basis=&#34;317px&#34;
-	
-&gt;
-&lt;img src=&#34;http://localhost:1313/p/2025%E5%B9%B45%E6%9C%8824%E6%97%A5-%E5%87%A4%E5%87%B0%E4%BC%A0%E5%A5%87%E5%86%9B%E8%AE%AD/4.jpg&#34;
-	width=&#34;6000&#34;
-	height=&#34;4000&#34;
-	srcset=&#34;http://localhost:1313/p/2025%E5%B9%B45%E6%9C%8824%E6%97%A5-%E5%87%A4%E5%87%B0%E4%BC%A0%E5%A5%87%E5%86%9B%E8%AE%AD/4_hu14908793170050888339.jpg 480w, http://localhost:1313/p/2025%E5%B9%B45%E6%9C%8824%E6%97%A5-%E5%87%A4%E5%87%B0%E4%BC%A0%E5%A5%87%E5%86%9B%E8%AE%AD/4_hu1278609666956977813.jpg 1024w&#34;
-	loading=&#34;lazy&#34;
-	
-	
-		class=&#34;gallery-image&#34; 
-		data-flex-grow=&#34;150&#34;
-		data-flex-basis=&#34;360px&#34;
-	
-&gt;&lt;/p&gt;
-</description>
-        </item>
-        <item>
+        <lastBuildDate>Fri, 09 May 2025 00:00:00 +0000</lastBuildDate><atom:link href="https://dongwenyu-amss.github.io/post/index.xml" rel="self" type="application/rss+xml" /><item>
         <title>2025年5月9日 颐和园</title>
-        <link>http://localhost:1313/p/2025%E5%B9%B45%E6%9C%889%E6%97%A5-%E9%A2%90%E5%92%8C%E5%9B%AD/</link>
+        <link>https://dongwenyu-amss.github.io/p/2025%E5%B9%B45%E6%9C%889%E6%97%A5-%E9%A2%90%E5%92%8C%E5%9B%AD/</link>
         <pubDate>Fri, 09 May 2025 00:00:00 +0000</pubDate>
         
-        <guid>http://localhost:1313/p/2025%E5%B9%B45%E6%9C%889%E6%97%A5-%E9%A2%90%E5%92%8C%E5%9B%AD/</guid>
-        <description>&lt;img src="http://localhost:1313/p/2025%E5%B9%B45%E6%9C%889%E6%97%A5-%E9%A2%90%E5%92%8C%E5%9B%AD/1.jpg" alt="Featured image of post 2025年5月9日 颐和园" /&gt;&lt;p&gt;&lt;img src=&#34;http://localhost:1313/p/2025%E5%B9%B45%E6%9C%889%E6%97%A5-%E9%A2%90%E5%92%8C%E5%9B%AD/2.jpg&#34;
+        <guid>https://dongwenyu-amss.github.io/p/2025%E5%B9%B45%E6%9C%889%E6%97%A5-%E9%A2%90%E5%92%8C%E5%9B%AD/</guid>
+        <description>&lt;img src="https://dongwenyu-amss.github.io/p/2025%E5%B9%B45%E6%9C%889%E6%97%A5-%E9%A2%90%E5%92%8C%E5%9B%AD/1.jpg" alt="Featured image of post 2025年5月9日 颐和园" /&gt;&lt;p&gt;&lt;img src=&#34;https://dongwenyu-amss.github.io/p/2025%E5%B9%B45%E6%9C%889%E6%97%A5-%E9%A2%90%E5%92%8C%E5%9B%AD/2.jpg&#34;
 	width=&#34;6000&#34;
 	height=&#34;4000&#34;
-	srcset=&#34;http://localhost:1313/p/2025%E5%B9%B45%E6%9C%889%E6%97%A5-%E9%A2%90%E5%92%8C%E5%9B%AD/2_hu8270312260379286693.jpg 480w, http://localhost:1313/p/2025%E5%B9%B45%E6%9C%889%E6%97%A5-%E9%A2%90%E5%92%8C%E5%9B%AD/2_hu3481010511789862738.jpg 1024w&#34;
+	srcset=&#34;https://dongwenyu-amss.github.io/p/2025%E5%B9%B45%E6%9C%889%E6%97%A5-%E9%A2%90%E5%92%8C%E5%9B%AD/2_hu8270312260379286693.jpg 480w, https://dongwenyu-amss.github.io/p/2025%E5%B9%B45%E6%9C%889%E6%97%A5-%E9%A2%90%E5%92%8C%E5%9B%AD/2_hu3481010511789862738.jpg 1024w&#34;
 	loading=&#34;lazy&#34;
 	
 	
@@ -81,10 +24,10 @@
 		data-flex-grow=&#34;150&#34;
 		data-flex-basis=&#34;360px&#34;
 	
-&gt;&lt;img src=&#34;http://localhost:1313/p/2025%E5%B9%B45%E6%9C%889%E6%97%A5-%E9%A2%90%E5%92%8C%E5%9B%AD/3.jpg&#34;
+&gt;&lt;img src=&#34;https://dongwenyu-amss.github.io/p/2025%E5%B9%B45%E6%9C%889%E6%97%A5-%E9%A2%90%E5%92%8C%E5%9B%AD/3.jpg&#34;
 	width=&#34;6000&#34;
 	height=&#34;4000&#34;
-	srcset=&#34;http://localhost:1313/p/2025%E5%B9%B45%E6%9C%889%E6%97%A5-%E9%A2%90%E5%92%8C%E5%9B%AD/3_hu16745563074121657986.jpg 480w, http://localhost:1313/p/2025%E5%B9%B45%E6%9C%889%E6%97%A5-%E9%A2%90%E5%92%8C%E5%9B%AD/3_hu12513028591228274365.jpg 1024w&#34;
+	srcset=&#34;https://dongwenyu-amss.github.io/p/2025%E5%B9%B45%E6%9C%889%E6%97%A5-%E9%A2%90%E5%92%8C%E5%9B%AD/3_hu16745563074121657986.jpg 480w, https://dongwenyu-amss.github.io/p/2025%E5%B9%B45%E6%9C%889%E6%97%A5-%E9%A2%90%E5%92%8C%E5%9B%AD/3_hu12513028591228274365.jpg 1024w&#34;
 	loading=&#34;lazy&#34;
 	
 	
@@ -92,22 +35,10 @@
 		data-flex-grow=&#34;150&#34;
 		data-flex-basis=&#34;360px&#34;
 	
-&gt;&lt;img src=&#34;http://localhost:1313/p/2025%E5%B9%B45%E6%9C%889%E6%97%A5-%E9%A2%90%E5%92%8C%E5%9B%AD/4.jpg&#34;
+&gt;&lt;img src=&#34;https://dongwenyu-amss.github.io/p/2025%E5%B9%B45%E6%9C%889%E6%97%A5-%E9%A2%90%E5%92%8C%E5%9B%AD/4.jpg&#34;
 	width=&#34;6000&#34;
 	height=&#34;4000&#34;
-	srcset=&#34;http://localhost:1313/p/2025%E5%B9%B45%E6%9C%889%E6%97%A5-%E9%A2%90%E5%92%8C%E5%9B%AD/4_hu16579215452272761530.jpg 480w, http://localhost:1313/p/2025%E5%B9%B45%E6%9C%889%E6%97%A5-%E9%A2%90%E5%92%8C%E5%9B%AD/4_hu649225993536140842.jpg 1024w&#34;
-	loading=&#34;lazy&#34;
-	
-	
-		class=&#34;gallery-image&#34; 
-		data-flex-grow=&#34;150&#34;
-		data-flex-basis=&#34;360px&#34;
-	
-&gt;
-&lt;img src=&#34;http://localhost:1313/p/2025%E5%B9%B45%E6%9C%889%E6%97%A5-%E9%A2%90%E5%92%8C%E5%9B%AD/5.jpg&#34;
-	width=&#34;6000&#34;
-	height=&#34;4000&#34;
-	srcset=&#34;http://localhost:1313/p/2025%E5%B9%B45%E6%9C%889%E6%97%A5-%E9%A2%90%E5%92%8C%E5%9B%AD/5_hu11523488146750053172.jpg 480w, http://localhost:1313/p/2025%E5%B9%B45%E6%9C%889%E6%97%A5-%E9%A2%90%E5%92%8C%E5%9B%AD/5_hu11902763846433695496.jpg 1024w&#34;
+	srcset=&#34;https://dongwenyu-amss.github.io/p/2025%E5%B9%B45%E6%9C%889%E6%97%A5-%E9%A2%90%E5%92%8C%E5%9B%AD/4_hu16579215452272761530.jpg 480w, https://dongwenyu-amss.github.io/p/2025%E5%B9%B45%E6%9C%889%E6%97%A5-%E9%A2%90%E5%92%8C%E5%9B%AD/4_hu649225993536140842.jpg 1024w&#34;
 	loading=&#34;lazy&#34;
 	
 	
@@ -116,10 +47,10 @@
 		data-flex-basis=&#34;360px&#34;
 	
 &gt;
-&lt;img src=&#34;http://localhost:1313/p/2025%E5%B9%B45%E6%9C%889%E6%97%A5-%E9%A2%90%E5%92%8C%E5%9B%AD/7.jpg&#34;
+&lt;img src=&#34;https://dongwenyu-amss.github.io/p/2025%E5%B9%B45%E6%9C%889%E6%97%A5-%E9%A2%90%E5%92%8C%E5%9B%AD/5.jpg&#34;
 	width=&#34;6000&#34;
 	height=&#34;4000&#34;
-	srcset=&#34;http://localhost:1313/p/2025%E5%B9%B45%E6%9C%889%E6%97%A5-%E9%A2%90%E5%92%8C%E5%9B%AD/7_hu4006741342833716371.jpg 480w, http://localhost:1313/p/2025%E5%B9%B45%E6%9C%889%E6%97%A5-%E9%A2%90%E5%92%8C%E5%9B%AD/7_hu8463533632999763673.jpg 1024w&#34;
+	srcset=&#34;https://dongwenyu-amss.github.io/p/2025%E5%B9%B45%E6%9C%889%E6%97%A5-%E9%A2%90%E5%92%8C%E5%9B%AD/5_hu11523488146750053172.jpg 480w, https://dongwenyu-amss.github.io/p/2025%E5%B9%B45%E6%9C%889%E6%97%A5-%E9%A2%90%E5%92%8C%E5%9B%AD/5_hu11902763846433695496.jpg 1024w&#34;
 	loading=&#34;lazy&#34;
 	
 	
@@ -127,10 +58,22 @@
 		data-flex-grow=&#34;150&#34;
 		data-flex-basis=&#34;360px&#34;
 	
-&gt; &lt;img src=&#34;http://localhost:1313/p/2025%E5%B9%B45%E6%9C%889%E6%97%A5-%E9%A2%90%E5%92%8C%E5%9B%AD/8.jpg&#34;
+&gt;
+&lt;img src=&#34;https://dongwenyu-amss.github.io/p/2025%E5%B9%B45%E6%9C%889%E6%97%A5-%E9%A2%90%E5%92%8C%E5%9B%AD/7.jpg&#34;
 	width=&#34;6000&#34;
 	height=&#34;4000&#34;
-	srcset=&#34;http://localhost:1313/p/2025%E5%B9%B45%E6%9C%889%E6%97%A5-%E9%A2%90%E5%92%8C%E5%9B%AD/8_hu8721645094173079117.jpg 480w, http://localhost:1313/p/2025%E5%B9%B45%E6%9C%889%E6%97%A5-%E9%A2%90%E5%92%8C%E5%9B%AD/8_hu17485502421683871569.jpg 1024w&#34;
+	srcset=&#34;https://dongwenyu-amss.github.io/p/2025%E5%B9%B45%E6%9C%889%E6%97%A5-%E9%A2%90%E5%92%8C%E5%9B%AD/7_hu4006741342833716371.jpg 480w, https://dongwenyu-amss.github.io/p/2025%E5%B9%B45%E6%9C%889%E6%97%A5-%E9%A2%90%E5%92%8C%E5%9B%AD/7_hu8463533632999763673.jpg 1024w&#34;
+	loading=&#34;lazy&#34;
+	
+	
+		class=&#34;gallery-image&#34; 
+		data-flex-grow=&#34;150&#34;
+		data-flex-basis=&#34;360px&#34;
+	
+&gt; &lt;img src=&#34;https://dongwenyu-amss.github.io/p/2025%E5%B9%B45%E6%9C%889%E6%97%A5-%E9%A2%90%E5%92%8C%E5%9B%AD/8.jpg&#34;
+	width=&#34;6000&#34;
+	height=&#34;4000&#34;
+	srcset=&#34;https://dongwenyu-amss.github.io/p/2025%E5%B9%B45%E6%9C%889%E6%97%A5-%E9%A2%90%E5%92%8C%E5%9B%AD/8_hu8721645094173079117.jpg 480w, https://dongwenyu-amss.github.io/p/2025%E5%B9%B45%E6%9C%889%E6%97%A5-%E9%A2%90%E5%92%8C%E5%9B%AD/8_hu17485502421683871569.jpg 1024w&#34;
 	loading=&#34;lazy&#34;
 	
 	
@@ -143,14 +86,14 @@
         </item>
         <item>
         <title>2025年5月1日 北京西山国家森林公园</title>
-        <link>http://localhost:1313/p/2025%E5%B9%B45%E6%9C%881%E6%97%A5-%E5%8C%97%E4%BA%AC%E8%A5%BF%E5%B1%B1%E5%9B%BD%E5%AE%B6%E6%A3%AE%E6%9E%97%E5%85%AC%E5%9B%AD/</link>
+        <link>https://dongwenyu-amss.github.io/p/2025%E5%B9%B45%E6%9C%881%E6%97%A5-%E5%8C%97%E4%BA%AC%E8%A5%BF%E5%B1%B1%E5%9B%BD%E5%AE%B6%E6%A3%AE%E6%9E%97%E5%85%AC%E5%9B%AD/</link>
         <pubDate>Thu, 01 May 2025 00:00:00 +0000</pubDate>
         
-        <guid>http://localhost:1313/p/2025%E5%B9%B45%E6%9C%881%E6%97%A5-%E5%8C%97%E4%BA%AC%E8%A5%BF%E5%B1%B1%E5%9B%BD%E5%AE%B6%E6%A3%AE%E6%9E%97%E5%85%AC%E5%9B%AD/</guid>
-        <description>&lt;img src="http://localhost:1313/p/2025%E5%B9%B45%E6%9C%881%E6%97%A5-%E5%8C%97%E4%BA%AC%E8%A5%BF%E5%B1%B1%E5%9B%BD%E5%AE%B6%E6%A3%AE%E6%9E%97%E5%85%AC%E5%9B%AD/2.jpg" alt="Featured image of post 2025年5月1日 北京西山国家森林公园" /&gt;&lt;p&gt;&lt;img src=&#34;http://localhost:1313/p/2025%E5%B9%B45%E6%9C%881%E6%97%A5-%E5%8C%97%E4%BA%AC%E8%A5%BF%E5%B1%B1%E5%9B%BD%E5%AE%B6%E6%A3%AE%E6%9E%97%E5%85%AC%E5%9B%AD/1.jpg&#34;
+        <guid>https://dongwenyu-amss.github.io/p/2025%E5%B9%B45%E6%9C%881%E6%97%A5-%E5%8C%97%E4%BA%AC%E8%A5%BF%E5%B1%B1%E5%9B%BD%E5%AE%B6%E6%A3%AE%E6%9E%97%E5%85%AC%E5%9B%AD/</guid>
+        <description>&lt;img src="https://dongwenyu-amss.github.io/p/2025%E5%B9%B45%E6%9C%881%E6%97%A5-%E5%8C%97%E4%BA%AC%E8%A5%BF%E5%B1%B1%E5%9B%BD%E5%AE%B6%E6%A3%AE%E6%9E%97%E5%85%AC%E5%9B%AD/2.jpg" alt="Featured image of post 2025年5月1日 北京西山国家森林公园" /&gt;&lt;p&gt;&lt;img src=&#34;https://dongwenyu-amss.github.io/p/2025%E5%B9%B45%E6%9C%881%E6%97%A5-%E5%8C%97%E4%BA%AC%E8%A5%BF%E5%B1%B1%E5%9B%BD%E5%AE%B6%E6%A3%AE%E6%9E%97%E5%85%AC%E5%9B%AD/1.jpg&#34;
 	width=&#34;6000&#34;
 	height=&#34;4000&#34;
-	srcset=&#34;http://localhost:1313/p/2025%E5%B9%B45%E6%9C%881%E6%97%A5-%E5%8C%97%E4%BA%AC%E8%A5%BF%E5%B1%B1%E5%9B%BD%E5%AE%B6%E6%A3%AE%E6%9E%97%E5%85%AC%E5%9B%AD/1_hu43743234578435116.jpg 480w, http://localhost:1313/p/2025%E5%B9%B45%E6%9C%881%E6%97%A5-%E5%8C%97%E4%BA%AC%E8%A5%BF%E5%B1%B1%E5%9B%BD%E5%AE%B6%E6%A3%AE%E6%9E%97%E5%85%AC%E5%9B%AD/1_hu18364307452385125919.jpg 1024w&#34;
+	srcset=&#34;https://dongwenyu-amss.github.io/p/2025%E5%B9%B45%E6%9C%881%E6%97%A5-%E5%8C%97%E4%BA%AC%E8%A5%BF%E5%B1%B1%E5%9B%BD%E5%AE%B6%E6%A3%AE%E6%9E%97%E5%85%AC%E5%9B%AD/1_hu43743234578435116.jpg 480w, https://dongwenyu-amss.github.io/p/2025%E5%B9%B45%E6%9C%881%E6%97%A5-%E5%8C%97%E4%BA%AC%E8%A5%BF%E5%B1%B1%E5%9B%BD%E5%AE%B6%E6%A3%AE%E6%9E%97%E5%85%AC%E5%9B%AD/1_hu18364307452385125919.jpg 1024w&#34;
 	loading=&#34;lazy&#34;
 	
 	
@@ -158,10 +101,10 @@
 		data-flex-grow=&#34;150&#34;
 		data-flex-basis=&#34;360px&#34;
 	
-&gt;&lt;img src=&#34;http://localhost:1313/p/2025%E5%B9%B45%E6%9C%881%E6%97%A5-%E5%8C%97%E4%BA%AC%E8%A5%BF%E5%B1%B1%E5%9B%BD%E5%AE%B6%E6%A3%AE%E6%9E%97%E5%85%AC%E5%9B%AD/3.jpg&#34;
+&gt;&lt;img src=&#34;https://dongwenyu-amss.github.io/p/2025%E5%B9%B45%E6%9C%881%E6%97%A5-%E5%8C%97%E4%BA%AC%E8%A5%BF%E5%B1%B1%E5%9B%BD%E5%AE%B6%E6%A3%AE%E6%9E%97%E5%85%AC%E5%9B%AD/3.jpg&#34;
 	width=&#34;4270&#34;
 	height=&#34;2937&#34;
-	srcset=&#34;http://localhost:1313/p/2025%E5%B9%B45%E6%9C%881%E6%97%A5-%E5%8C%97%E4%BA%AC%E8%A5%BF%E5%B1%B1%E5%9B%BD%E5%AE%B6%E6%A3%AE%E6%9E%97%E5%85%AC%E5%9B%AD/3_hu14655735954495785659.jpg 480w, http://localhost:1313/p/2025%E5%B9%B45%E6%9C%881%E6%97%A5-%E5%8C%97%E4%BA%AC%E8%A5%BF%E5%B1%B1%E5%9B%BD%E5%AE%B6%E6%A3%AE%E6%9E%97%E5%85%AC%E5%9B%AD/3_hu1513093564882669659.jpg 1024w&#34;
+	srcset=&#34;https://dongwenyu-amss.github.io/p/2025%E5%B9%B45%E6%9C%881%E6%97%A5-%E5%8C%97%E4%BA%AC%E8%A5%BF%E5%B1%B1%E5%9B%BD%E5%AE%B6%E6%A3%AE%E6%9E%97%E5%85%AC%E5%9B%AD/3_hu14655735954495785659.jpg 480w, https://dongwenyu-amss.github.io/p/2025%E5%B9%B45%E6%9C%881%E6%97%A5-%E5%8C%97%E4%BA%AC%E8%A5%BF%E5%B1%B1%E5%9B%BD%E5%AE%B6%E6%A3%AE%E6%9E%97%E5%85%AC%E5%9B%AD/3_hu1513093564882669659.jpg 1024w&#34;
 	loading=&#34;lazy&#34;
 	
 	
@@ -169,10 +112,10 @@
 		data-flex-grow=&#34;145&#34;
 		data-flex-basis=&#34;348px&#34;
 	
-&gt;&lt;img src=&#34;http://localhost:1313/p/2025%E5%B9%B45%E6%9C%881%E6%97%A5-%E5%8C%97%E4%BA%AC%E8%A5%BF%E5%B1%B1%E5%9B%BD%E5%AE%B6%E6%A3%AE%E6%9E%97%E5%85%AC%E5%9B%AD/4.jpg&#34;
+&gt;&lt;img src=&#34;https://dongwenyu-amss.github.io/p/2025%E5%B9%B45%E6%9C%881%E6%97%A5-%E5%8C%97%E4%BA%AC%E8%A5%BF%E5%B1%B1%E5%9B%BD%E5%AE%B6%E6%A3%AE%E6%9E%97%E5%85%AC%E5%9B%AD/4.jpg&#34;
 	width=&#34;6000&#34;
 	height=&#34;4000&#34;
-	srcset=&#34;http://localhost:1313/p/2025%E5%B9%B45%E6%9C%881%E6%97%A5-%E5%8C%97%E4%BA%AC%E8%A5%BF%E5%B1%B1%E5%9B%BD%E5%AE%B6%E6%A3%AE%E6%9E%97%E5%85%AC%E5%9B%AD/4_hu4327418412310434432.jpg 480w, http://localhost:1313/p/2025%E5%B9%B45%E6%9C%881%E6%97%A5-%E5%8C%97%E4%BA%AC%E8%A5%BF%E5%B1%B1%E5%9B%BD%E5%AE%B6%E6%A3%AE%E6%9E%97%E5%85%AC%E5%9B%AD/4_hu17264135219197238380.jpg 1024w&#34;
+	srcset=&#34;https://dongwenyu-amss.github.io/p/2025%E5%B9%B45%E6%9C%881%E6%97%A5-%E5%8C%97%E4%BA%AC%E8%A5%BF%E5%B1%B1%E5%9B%BD%E5%AE%B6%E6%A3%AE%E6%9E%97%E5%85%AC%E5%9B%AD/4_hu4327418412310434432.jpg 480w, https://dongwenyu-amss.github.io/p/2025%E5%B9%B45%E6%9C%881%E6%97%A5-%E5%8C%97%E4%BA%AC%E8%A5%BF%E5%B1%B1%E5%9B%BD%E5%AE%B6%E6%A3%AE%E6%9E%97%E5%85%AC%E5%9B%AD/4_hu17264135219197238380.jpg 1024w&#34;
 	loading=&#34;lazy&#34;
 	
 	
@@ -181,10 +124,10 @@
 		data-flex-basis=&#34;360px&#34;
 	
 &gt;
-&lt;img src=&#34;http://localhost:1313/p/2025%E5%B9%B45%E6%9C%881%E6%97%A5-%E5%8C%97%E4%BA%AC%E8%A5%BF%E5%B1%B1%E5%9B%BD%E5%AE%B6%E6%A3%AE%E6%9E%97%E5%85%AC%E5%9B%AD/5.jpg&#34;
+&lt;img src=&#34;https://dongwenyu-amss.github.io/p/2025%E5%B9%B45%E6%9C%881%E6%97%A5-%E5%8C%97%E4%BA%AC%E8%A5%BF%E5%B1%B1%E5%9B%BD%E5%AE%B6%E6%A3%AE%E6%9E%97%E5%85%AC%E5%9B%AD/5.jpg&#34;
 	width=&#34;5657&#34;
 	height=&#34;3480&#34;
-	srcset=&#34;http://localhost:1313/p/2025%E5%B9%B45%E6%9C%881%E6%97%A5-%E5%8C%97%E4%BA%AC%E8%A5%BF%E5%B1%B1%E5%9B%BD%E5%AE%B6%E6%A3%AE%E6%9E%97%E5%85%AC%E5%9B%AD/5_hu15633314895540221227.jpg 480w, http://localhost:1313/p/2025%E5%B9%B45%E6%9C%881%E6%97%A5-%E5%8C%97%E4%BA%AC%E8%A5%BF%E5%B1%B1%E5%9B%BD%E5%AE%B6%E6%A3%AE%E6%9E%97%E5%85%AC%E5%9B%AD/5_hu10391323136323944270.jpg 1024w&#34;
+	srcset=&#34;https://dongwenyu-amss.github.io/p/2025%E5%B9%B45%E6%9C%881%E6%97%A5-%E5%8C%97%E4%BA%AC%E8%A5%BF%E5%B1%B1%E5%9B%BD%E5%AE%B6%E6%A3%AE%E6%9E%97%E5%85%AC%E5%9B%AD/5_hu15633314895540221227.jpg 480w, https://dongwenyu-amss.github.io/p/2025%E5%B9%B45%E6%9C%881%E6%97%A5-%E5%8C%97%E4%BA%AC%E8%A5%BF%E5%B1%B1%E5%9B%BD%E5%AE%B6%E6%A3%AE%E6%9E%97%E5%85%AC%E5%9B%AD/5_hu10391323136323944270.jpg 1024w&#34;
 	loading=&#34;lazy&#34;
 	
 	
@@ -193,10 +136,10 @@
 		data-flex-basis=&#34;390px&#34;
 	
 &gt;
-&lt;img src=&#34;http://localhost:1313/p/2025%E5%B9%B45%E6%9C%881%E6%97%A5-%E5%8C%97%E4%BA%AC%E8%A5%BF%E5%B1%B1%E5%9B%BD%E5%AE%B6%E6%A3%AE%E6%9E%97%E5%85%AC%E5%9B%AD/6.jpg&#34;
+&lt;img src=&#34;https://dongwenyu-amss.github.io/p/2025%E5%B9%B45%E6%9C%881%E6%97%A5-%E5%8C%97%E4%BA%AC%E8%A5%BF%E5%B1%B1%E5%9B%BD%E5%AE%B6%E6%A3%AE%E6%9E%97%E5%85%AC%E5%9B%AD/6.jpg&#34;
 	width=&#34;6000&#34;
 	height=&#34;4000&#34;
-	srcset=&#34;http://localhost:1313/p/2025%E5%B9%B45%E6%9C%881%E6%97%A5-%E5%8C%97%E4%BA%AC%E8%A5%BF%E5%B1%B1%E5%9B%BD%E5%AE%B6%E6%A3%AE%E6%9E%97%E5%85%AC%E5%9B%AD/6_hu7760719959483342205.jpg 480w, http://localhost:1313/p/2025%E5%B9%B45%E6%9C%881%E6%97%A5-%E5%8C%97%E4%BA%AC%E8%A5%BF%E5%B1%B1%E5%9B%BD%E5%AE%B6%E6%A3%AE%E6%9E%97%E5%85%AC%E5%9B%AD/6_hu17727660020029080595.jpg 1024w&#34;
+	srcset=&#34;https://dongwenyu-amss.github.io/p/2025%E5%B9%B45%E6%9C%881%E6%97%A5-%E5%8C%97%E4%BA%AC%E8%A5%BF%E5%B1%B1%E5%9B%BD%E5%AE%B6%E6%A3%AE%E6%9E%97%E5%85%AC%E5%9B%AD/6_hu7760719959483342205.jpg 480w, https://dongwenyu-amss.github.io/p/2025%E5%B9%B45%E6%9C%881%E6%97%A5-%E5%8C%97%E4%BA%AC%E8%A5%BF%E5%B1%B1%E5%9B%BD%E5%AE%B6%E6%A3%AE%E6%9E%97%E5%85%AC%E5%9B%AD/6_hu17727660020029080595.jpg 1024w&#34;
 	loading=&#34;lazy&#34;
 	
 	
@@ -204,10 +147,10 @@
 		data-flex-grow=&#34;150&#34;
 		data-flex-basis=&#34;360px&#34;
 	
-&gt;&lt;img src=&#34;http://localhost:1313/p/2025%E5%B9%B45%E6%9C%881%E6%97%A5-%E5%8C%97%E4%BA%AC%E8%A5%BF%E5%B1%B1%E5%9B%BD%E5%AE%B6%E6%A3%AE%E6%9E%97%E5%85%AC%E5%9B%AD/7.jpg&#34;
+&gt;&lt;img src=&#34;https://dongwenyu-amss.github.io/p/2025%E5%B9%B45%E6%9C%881%E6%97%A5-%E5%8C%97%E4%BA%AC%E8%A5%BF%E5%B1%B1%E5%9B%BD%E5%AE%B6%E6%A3%AE%E6%9E%97%E5%85%AC%E5%9B%AD/7.jpg&#34;
 	width=&#34;4480&#34;
 	height=&#34;2984&#34;
-	srcset=&#34;http://localhost:1313/p/2025%E5%B9%B45%E6%9C%881%E6%97%A5-%E5%8C%97%E4%BA%AC%E8%A5%BF%E5%B1%B1%E5%9B%BD%E5%AE%B6%E6%A3%AE%E6%9E%97%E5%85%AC%E5%9B%AD/7_hu13887990690338744353.jpg 480w, http://localhost:1313/p/2025%E5%B9%B45%E6%9C%881%E6%97%A5-%E5%8C%97%E4%BA%AC%E8%A5%BF%E5%B1%B1%E5%9B%BD%E5%AE%B6%E6%A3%AE%E6%9E%97%E5%85%AC%E5%9B%AD/7_hu14748194481892420594.jpg 1024w&#34;
+	srcset=&#34;https://dongwenyu-amss.github.io/p/2025%E5%B9%B45%E6%9C%881%E6%97%A5-%E5%8C%97%E4%BA%AC%E8%A5%BF%E5%B1%B1%E5%9B%BD%E5%AE%B6%E6%A3%AE%E6%9E%97%E5%85%AC%E5%9B%AD/7_hu13887990690338744353.jpg 480w, https://dongwenyu-amss.github.io/p/2025%E5%B9%B45%E6%9C%881%E6%97%A5-%E5%8C%97%E4%BA%AC%E8%A5%BF%E5%B1%B1%E5%9B%BD%E5%AE%B6%E6%A3%AE%E6%9E%97%E5%85%AC%E5%9B%AD/7_hu14748194481892420594.jpg 1024w&#34;
 	loading=&#34;lazy&#34;
 	
 	
@@ -215,10 +158,10 @@
 		data-flex-grow=&#34;150&#34;
 		data-flex-basis=&#34;360px&#34;
 	
-&gt; &lt;img src=&#34;http://localhost:1313/p/2025%E5%B9%B45%E6%9C%881%E6%97%A5-%E5%8C%97%E4%BA%AC%E8%A5%BF%E5%B1%B1%E5%9B%BD%E5%AE%B6%E6%A3%AE%E6%9E%97%E5%85%AC%E5%9B%AD/8.jpg&#34;
+&gt; &lt;img src=&#34;https://dongwenyu-amss.github.io/p/2025%E5%B9%B45%E6%9C%881%E6%97%A5-%E5%8C%97%E4%BA%AC%E8%A5%BF%E5%B1%B1%E5%9B%BD%E5%AE%B6%E6%A3%AE%E6%9E%97%E5%85%AC%E5%9B%AD/8.jpg&#34;
 	width=&#34;6000&#34;
 	height=&#34;4000&#34;
-	srcset=&#34;http://localhost:1313/p/2025%E5%B9%B45%E6%9C%881%E6%97%A5-%E5%8C%97%E4%BA%AC%E8%A5%BF%E5%B1%B1%E5%9B%BD%E5%AE%B6%E6%A3%AE%E6%9E%97%E5%85%AC%E5%9B%AD/8_hu2530594618585541655.jpg 480w, http://localhost:1313/p/2025%E5%B9%B45%E6%9C%881%E6%97%A5-%E5%8C%97%E4%BA%AC%E8%A5%BF%E5%B1%B1%E5%9B%BD%E5%AE%B6%E6%A3%AE%E6%9E%97%E5%85%AC%E5%9B%AD/8_hu2749953127216939915.jpg 1024w&#34;
+	srcset=&#34;https://dongwenyu-amss.github.io/p/2025%E5%B9%B45%E6%9C%881%E6%97%A5-%E5%8C%97%E4%BA%AC%E8%A5%BF%E5%B1%B1%E5%9B%BD%E5%AE%B6%E6%A3%AE%E6%9E%97%E5%85%AC%E5%9B%AD/8_hu2530594618585541655.jpg 480w, https://dongwenyu-amss.github.io/p/2025%E5%B9%B45%E6%9C%881%E6%97%A5-%E5%8C%97%E4%BA%AC%E8%A5%BF%E5%B1%B1%E5%9B%BD%E5%AE%B6%E6%A3%AE%E6%9E%97%E5%85%AC%E5%9B%AD/8_hu2749953127216939915.jpg 1024w&#34;
 	loading=&#34;lazy&#34;
 	
 	
@@ -227,10 +170,10 @@
 		data-flex-basis=&#34;360px&#34;
 	
 &gt;
-&lt;img src=&#34;http://localhost:1313/p/2025%E5%B9%B45%E6%9C%881%E6%97%A5-%E5%8C%97%E4%BA%AC%E8%A5%BF%E5%B1%B1%E5%9B%BD%E5%AE%B6%E6%A3%AE%E6%9E%97%E5%85%AC%E5%9B%AD/9.jpg&#34;
+&lt;img src=&#34;https://dongwenyu-amss.github.io/p/2025%E5%B9%B45%E6%9C%881%E6%97%A5-%E5%8C%97%E4%BA%AC%E8%A5%BF%E5%B1%B1%E5%9B%BD%E5%AE%B6%E6%A3%AE%E6%9E%97%E5%85%AC%E5%9B%AD/9.jpg&#34;
 	width=&#34;5616&#34;
 	height=&#34;3929&#34;
-	srcset=&#34;http://localhost:1313/p/2025%E5%B9%B45%E6%9C%881%E6%97%A5-%E5%8C%97%E4%BA%AC%E8%A5%BF%E5%B1%B1%E5%9B%BD%E5%AE%B6%E6%A3%AE%E6%9E%97%E5%85%AC%E5%9B%AD/9_hu13414393218429870381.jpg 480w, http://localhost:1313/p/2025%E5%B9%B45%E6%9C%881%E6%97%A5-%E5%8C%97%E4%BA%AC%E8%A5%BF%E5%B1%B1%E5%9B%BD%E5%AE%B6%E6%A3%AE%E6%9E%97%E5%85%AC%E5%9B%AD/9_hu128708586510357754.jpg 1024w&#34;
+	srcset=&#34;https://dongwenyu-amss.github.io/p/2025%E5%B9%B45%E6%9C%881%E6%97%A5-%E5%8C%97%E4%BA%AC%E8%A5%BF%E5%B1%B1%E5%9B%BD%E5%AE%B6%E6%A3%AE%E6%9E%97%E5%85%AC%E5%9B%AD/9_hu13414393218429870381.jpg 480w, https://dongwenyu-amss.github.io/p/2025%E5%B9%B45%E6%9C%881%E6%97%A5-%E5%8C%97%E4%BA%AC%E8%A5%BF%E5%B1%B1%E5%9B%BD%E5%AE%B6%E6%A3%AE%E6%9E%97%E5%85%AC%E5%9B%AD/9_hu128708586510357754.jpg 1024w&#34;
 	loading=&#34;lazy&#34;
 	
 	
@@ -243,11 +186,11 @@
         </item>
         <item>
         <title>Deep Ritz 代码实现</title>
-        <link>http://localhost:1313/p/deep-ritz-%E4%BB%A3%E7%A0%81%E5%AE%9E%E7%8E%B0/</link>
+        <link>https://dongwenyu-amss.github.io/p/deep-ritz-%E4%BB%A3%E7%A0%81%E5%AE%9E%E7%8E%B0/</link>
         <pubDate>Mon, 17 Feb 2025 00:00:00 +0000</pubDate>
         
-        <guid>http://localhost:1313/p/deep-ritz-%E4%BB%A3%E7%A0%81%E5%AE%9E%E7%8E%B0/</guid>
-        <description>&lt;img src="http://localhost:1313/p/deep-ritz-%E4%BB%A3%E7%A0%81%E5%AE%9E%E7%8E%B0/Numerical.jpg" alt="Featured image of post Deep Ritz 代码实现" /&gt;&lt;h2 id=&#34;question&#34;&gt;Question
+        <guid>https://dongwenyu-amss.github.io/p/deep-ritz-%E4%BB%A3%E7%A0%81%E5%AE%9E%E7%8E%B0/</guid>
+        <description>&lt;img src="https://dongwenyu-amss.github.io/p/deep-ritz-%E4%BB%A3%E7%A0%81%E5%AE%9E%E7%8E%B0/Numerical.jpg" alt="Featured image of post Deep Ritz 代码实现" /&gt;&lt;h2 id=&#34;question&#34;&gt;Question
 &lt;/h2&gt;&lt;p&gt;考虑二维圆形区域上的poisson问题：&lt;/p&gt;
 $$
     -\triangle u = f
@@ -1068,10 +1011,10 @@ $$&lt;p&gt;采用DeepRitz方法求解的python代码如下：&lt;/p&gt;
 &lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;
 &lt;/div&gt;
 &lt;/div&gt;&lt;p&gt;数值结果：取区域为以原点为中心的单位圆，重复五次DeepRitz方法，得到最终五次loss的平均值随迭代次数变化的曲线图如下：&lt;/p&gt;
-&lt;p&gt;&lt;img src=&#34;http://localhost:1313/p/deep-ritz-%E4%BB%A3%E7%A0%81%E5%AE%9E%E7%8E%B0/loss.jpg&#34;
+&lt;p&gt;&lt;img src=&#34;https://dongwenyu-amss.github.io/p/deep-ritz-%E4%BB%A3%E7%A0%81%E5%AE%9E%E7%8E%B0/loss.jpg&#34;
 	width=&#34;700&#34;
 	height=&#34;525&#34;
-	srcset=&#34;http://localhost:1313/p/deep-ritz-%E4%BB%A3%E7%A0%81%E5%AE%9E%E7%8E%B0/loss_hu17807635527903442287.jpg 480w, http://localhost:1313/p/deep-ritz-%E4%BB%A3%E7%A0%81%E5%AE%9E%E7%8E%B0/loss_hu11349135348260138174.jpg 1024w&#34;
+	srcset=&#34;https://dongwenyu-amss.github.io/p/deep-ritz-%E4%BB%A3%E7%A0%81%E5%AE%9E%E7%8E%B0/loss_hu17807635527903442287.jpg 480w, https://dongwenyu-amss.github.io/p/deep-ritz-%E4%BB%A3%E7%A0%81%E5%AE%9E%E7%8E%B0/loss_hu11349135348260138174.jpg 1024w&#34;
 	loading=&#34;lazy&#34;
 	
 	
@@ -1081,10 +1024,10 @@ $$&lt;p&gt;采用DeepRitz方法求解的python代码如下：&lt;/p&gt;
 	
 &gt;&lt;/p&gt;
 &lt;p&gt;数值解的图像：&lt;/p&gt;
-&lt;p&gt;&lt;img src=&#34;http://localhost:1313/p/deep-ritz-%E4%BB%A3%E7%A0%81%E5%AE%9E%E7%8E%B0/Numerical.jpg&#34;
+&lt;p&gt;&lt;img src=&#34;https://dongwenyu-amss.github.io/p/deep-ritz-%E4%BB%A3%E7%A0%81%E5%AE%9E%E7%8E%B0/Numerical.jpg&#34;
 	width=&#34;700&#34;
 	height=&#34;525&#34;
-	srcset=&#34;http://localhost:1313/p/deep-ritz-%E4%BB%A3%E7%A0%81%E5%AE%9E%E7%8E%B0/Numerical_hu14686786054691961873.jpg 480w, http://localhost:1313/p/deep-ritz-%E4%BB%A3%E7%A0%81%E5%AE%9E%E7%8E%B0/Numerical_hu634375889192823426.jpg 1024w&#34;
+	srcset=&#34;https://dongwenyu-amss.github.io/p/deep-ritz-%E4%BB%A3%E7%A0%81%E5%AE%9E%E7%8E%B0/Numerical_hu14686786054691961873.jpg 480w, https://dongwenyu-amss.github.io/p/deep-ritz-%E4%BB%A3%E7%A0%81%E5%AE%9E%E7%8E%B0/Numerical_hu634375889192823426.jpg 1024w&#34;
 	loading=&#34;lazy&#34;
 	
 		alt=&#34;数值解&#34;
@@ -1099,14 +1042,14 @@ $$&lt;p&gt;采用DeepRitz方法求解的python代码如下：&lt;/p&gt;
         </item>
         <item>
         <title>2025年2月15日 动物园</title>
-        <link>http://localhost:1313/p/2025%E5%B9%B42%E6%9C%8815%E6%97%A5-%E5%8A%A8%E7%89%A9%E5%9B%AD/</link>
+        <link>https://dongwenyu-amss.github.io/p/2025%E5%B9%B42%E6%9C%8815%E6%97%A5-%E5%8A%A8%E7%89%A9%E5%9B%AD/</link>
         <pubDate>Sat, 15 Feb 2025 00:00:00 +0000</pubDate>
         
-        <guid>http://localhost:1313/p/2025%E5%B9%B42%E6%9C%8815%E6%97%A5-%E5%8A%A8%E7%89%A9%E5%9B%AD/</guid>
-        <description>&lt;img src="http://localhost:1313/p/2025%E5%B9%B42%E6%9C%8815%E6%97%A5-%E5%8A%A8%E7%89%A9%E5%9B%AD/2.jpg" alt="Featured image of post 2025年2月15日 动物园" /&gt;&lt;p&gt;&lt;img src=&#34;http://localhost:1313/p/2025%E5%B9%B42%E6%9C%8815%E6%97%A5-%E5%8A%A8%E7%89%A9%E5%9B%AD/1.jpg&#34;
+        <guid>https://dongwenyu-amss.github.io/p/2025%E5%B9%B42%E6%9C%8815%E6%97%A5-%E5%8A%A8%E7%89%A9%E5%9B%AD/</guid>
+        <description>&lt;img src="https://dongwenyu-amss.github.io/p/2025%E5%B9%B42%E6%9C%8815%E6%97%A5-%E5%8A%A8%E7%89%A9%E5%9B%AD/2.jpg" alt="Featured image of post 2025年2月15日 动物园" /&gt;&lt;p&gt;&lt;img src=&#34;https://dongwenyu-amss.github.io/p/2025%E5%B9%B42%E6%9C%8815%E6%97%A5-%E5%8A%A8%E7%89%A9%E5%9B%AD/1.jpg&#34;
 	width=&#34;6000&#34;
 	height=&#34;4000&#34;
-	srcset=&#34;http://localhost:1313/p/2025%E5%B9%B42%E6%9C%8815%E6%97%A5-%E5%8A%A8%E7%89%A9%E5%9B%AD/1_hu6752427970332436671.jpg 480w, http://localhost:1313/p/2025%E5%B9%B42%E6%9C%8815%E6%97%A5-%E5%8A%A8%E7%89%A9%E5%9B%AD/1_hu4555184695131998936.jpg 1024w&#34;
+	srcset=&#34;https://dongwenyu-amss.github.io/p/2025%E5%B9%B42%E6%9C%8815%E6%97%A5-%E5%8A%A8%E7%89%A9%E5%9B%AD/1_hu6752427970332436671.jpg 480w, https://dongwenyu-amss.github.io/p/2025%E5%B9%B42%E6%9C%8815%E6%97%A5-%E5%8A%A8%E7%89%A9%E5%9B%AD/1_hu4555184695131998936.jpg 1024w&#34;
 	loading=&#34;lazy&#34;
 	
 	
@@ -1115,10 +1058,10 @@ $$&lt;p&gt;采用DeepRitz方法求解的python代码如下：&lt;/p&gt;
 		data-flex-basis=&#34;360px&#34;
 	
 &gt;
-&lt;img src=&#34;http://localhost:1313/p/2025%E5%B9%B42%E6%9C%8815%E6%97%A5-%E5%8A%A8%E7%89%A9%E5%9B%AD/5.jpg&#34;
+&lt;img src=&#34;https://dongwenyu-amss.github.io/p/2025%E5%B9%B42%E6%9C%8815%E6%97%A5-%E5%8A%A8%E7%89%A9%E5%9B%AD/5.jpg&#34;
 	width=&#34;1680&#34;
 	height=&#34;1120&#34;
-	srcset=&#34;http://localhost:1313/p/2025%E5%B9%B42%E6%9C%8815%E6%97%A5-%E5%8A%A8%E7%89%A9%E5%9B%AD/5_hu13510854632285639290.jpg 480w, http://localhost:1313/p/2025%E5%B9%B42%E6%9C%8815%E6%97%A5-%E5%8A%A8%E7%89%A9%E5%9B%AD/5_hu16938725562011052465.jpg 1024w&#34;
+	srcset=&#34;https://dongwenyu-amss.github.io/p/2025%E5%B9%B42%E6%9C%8815%E6%97%A5-%E5%8A%A8%E7%89%A9%E5%9B%AD/5_hu13510854632285639290.jpg 480w, https://dongwenyu-amss.github.io/p/2025%E5%B9%B42%E6%9C%8815%E6%97%A5-%E5%8A%A8%E7%89%A9%E5%9B%AD/5_hu16938725562011052465.jpg 1024w&#34;
 	loading=&#34;lazy&#34;
 	
 	
@@ -1127,10 +1070,10 @@ $$&lt;p&gt;采用DeepRitz方法求解的python代码如下：&lt;/p&gt;
 		data-flex-basis=&#34;360px&#34;
 	
 &gt;
-&lt;img src=&#34;http://localhost:1313/p/2025%E5%B9%B42%E6%9C%8815%E6%97%A5-%E5%8A%A8%E7%89%A9%E5%9B%AD/6.jpg&#34;
+&lt;img src=&#34;https://dongwenyu-amss.github.io/p/2025%E5%B9%B42%E6%9C%8815%E6%97%A5-%E5%8A%A8%E7%89%A9%E5%9B%AD/6.jpg&#34;
 	width=&#34;1680&#34;
 	height=&#34;1120&#34;
-	srcset=&#34;http://localhost:1313/p/2025%E5%B9%B42%E6%9C%8815%E6%97%A5-%E5%8A%A8%E7%89%A9%E5%9B%AD/6_hu6704468402000562275.jpg 480w, http://localhost:1313/p/2025%E5%B9%B42%E6%9C%8815%E6%97%A5-%E5%8A%A8%E7%89%A9%E5%9B%AD/6_hu13214604952519478992.jpg 1024w&#34;
+	srcset=&#34;https://dongwenyu-amss.github.io/p/2025%E5%B9%B42%E6%9C%8815%E6%97%A5-%E5%8A%A8%E7%89%A9%E5%9B%AD/6_hu6704468402000562275.jpg 480w, https://dongwenyu-amss.github.io/p/2025%E5%B9%B42%E6%9C%8815%E6%97%A5-%E5%8A%A8%E7%89%A9%E5%9B%AD/6_hu13214604952519478992.jpg 1024w&#34;
 	loading=&#34;lazy&#34;
 	
 	
@@ -1138,10 +1081,10 @@ $$&lt;p&gt;采用DeepRitz方法求解的python代码如下：&lt;/p&gt;
 		data-flex-grow=&#34;150&#34;
 		data-flex-basis=&#34;360px&#34;
 	
-&gt;&lt;img src=&#34;http://localhost:1313/p/2025%E5%B9%B42%E6%9C%8815%E6%97%A5-%E5%8A%A8%E7%89%A9%E5%9B%AD/7.jpg&#34;
+&gt;&lt;img src=&#34;https://dongwenyu-amss.github.io/p/2025%E5%B9%B42%E6%9C%8815%E6%97%A5-%E5%8A%A8%E7%89%A9%E5%9B%AD/7.jpg&#34;
 	width=&#34;1920&#34;
 	height=&#34;1280&#34;
-	srcset=&#34;http://localhost:1313/p/2025%E5%B9%B42%E6%9C%8815%E6%97%A5-%E5%8A%A8%E7%89%A9%E5%9B%AD/7_hu9562381130605835093.jpg 480w, http://localhost:1313/p/2025%E5%B9%B42%E6%9C%8815%E6%97%A5-%E5%8A%A8%E7%89%A9%E5%9B%AD/7_hu9253674863363912271.jpg 1024w&#34;
+	srcset=&#34;https://dongwenyu-amss.github.io/p/2025%E5%B9%B42%E6%9C%8815%E6%97%A5-%E5%8A%A8%E7%89%A9%E5%9B%AD/7_hu9562381130605835093.jpg 480w, https://dongwenyu-amss.github.io/p/2025%E5%B9%B42%E6%9C%8815%E6%97%A5-%E5%8A%A8%E7%89%A9%E5%9B%AD/7_hu9253674863363912271.jpg 1024w&#34;
 	loading=&#34;lazy&#34;
 	
 	
@@ -1149,10 +1092,10 @@ $$&lt;p&gt;采用DeepRitz方法求解的python代码如下：&lt;/p&gt;
 		data-flex-grow=&#34;150&#34;
 		data-flex-basis=&#34;360px&#34;
 	
-&gt; &lt;img src=&#34;http://localhost:1313/p/2025%E5%B9%B42%E6%9C%8815%E6%97%A5-%E5%8A%A8%E7%89%A9%E5%9B%AD/8.jpg&#34;
+&gt; &lt;img src=&#34;https://dongwenyu-amss.github.io/p/2025%E5%B9%B42%E6%9C%8815%E6%97%A5-%E5%8A%A8%E7%89%A9%E5%9B%AD/8.jpg&#34;
 	width=&#34;1920&#34;
 	height=&#34;1280&#34;
-	srcset=&#34;http://localhost:1313/p/2025%E5%B9%B42%E6%9C%8815%E6%97%A5-%E5%8A%A8%E7%89%A9%E5%9B%AD/8_hu4810151638821611429.jpg 480w, http://localhost:1313/p/2025%E5%B9%B42%E6%9C%8815%E6%97%A5-%E5%8A%A8%E7%89%A9%E5%9B%AD/8_hu12697107856048328567.jpg 1024w&#34;
+	srcset=&#34;https://dongwenyu-amss.github.io/p/2025%E5%B9%B42%E6%9C%8815%E6%97%A5-%E5%8A%A8%E7%89%A9%E5%9B%AD/8_hu4810151638821611429.jpg 480w, https://dongwenyu-amss.github.io/p/2025%E5%B9%B42%E6%9C%8815%E6%97%A5-%E5%8A%A8%E7%89%A9%E5%9B%AD/8_hu12697107856048328567.jpg 1024w&#34;
 	loading=&#34;lazy&#34;
 	
 	
@@ -1161,10 +1104,10 @@ $$&lt;p&gt;采用DeepRitz方法求解的python代码如下：&lt;/p&gt;
 		data-flex-basis=&#34;360px&#34;
 	
 &gt;
-&lt;img src=&#34;http://localhost:1313/p/2025%E5%B9%B42%E6%9C%8815%E6%97%A5-%E5%8A%A8%E7%89%A9%E5%9B%AD/9.jpg&#34;
+&lt;img src=&#34;https://dongwenyu-amss.github.io/p/2025%E5%B9%B42%E6%9C%8815%E6%97%A5-%E5%8A%A8%E7%89%A9%E5%9B%AD/9.jpg&#34;
 	width=&#34;3412&#34;
 	height=&#34;5120&#34;
-	srcset=&#34;http://localhost:1313/p/2025%E5%B9%B42%E6%9C%8815%E6%97%A5-%E5%8A%A8%E7%89%A9%E5%9B%AD/9_hu1121016043360753533.jpg 480w, http://localhost:1313/p/2025%E5%B9%B42%E6%9C%8815%E6%97%A5-%E5%8A%A8%E7%89%A9%E5%9B%AD/9_hu6791472944690230930.jpg 1024w&#34;
+	srcset=&#34;https://dongwenyu-amss.github.io/p/2025%E5%B9%B42%E6%9C%8815%E6%97%A5-%E5%8A%A8%E7%89%A9%E5%9B%AD/9_hu1121016043360753533.jpg 480w, https://dongwenyu-amss.github.io/p/2025%E5%B9%B42%E6%9C%8815%E6%97%A5-%E5%8A%A8%E7%89%A9%E5%9B%AD/9_hu6791472944690230930.jpg 1024w&#34;
 	loading=&#34;lazy&#34;
 	
 	
@@ -1177,10 +1120,10 @@ $$&lt;p&gt;采用DeepRitz方法求解的python代码如下：&lt;/p&gt;
         </item>
         <item>
         <title>Deep Ritz Method</title>
-        <link>http://localhost:1313/p/deep-ritz-method/</link>
+        <link>https://dongwenyu-amss.github.io/p/deep-ritz-method/</link>
         <pubDate>Thu, 13 Feb 2025 00:00:00 +0000</pubDate>
         
-        <guid>http://localhost:1313/p/deep-ritz-method/</guid>
+        <guid>https://dongwenyu-amss.github.io/p/deep-ritz-method/</guid>
         <description>&lt;h3 id=&#34;question&#34;&gt;Question
 &lt;/h3&gt;&lt;p&gt;考虑变分问题：&lt;/p&gt;
 $$
