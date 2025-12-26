@@ -7,7 +7,22 @@
         <generator>Hugo -- gohugo.io</generator>
         <language>en</language>
         <copyright>Dong Wenyu</copyright>
-        <lastBuildDate>Fri, 09 May 2025 00:00:00 +0000</lastBuildDate><atom:link href="https://dongwenyu-amss.github.io/post/index.xml" rel="self" type="application/rss+xml" /><item>
+        <lastBuildDate>Fri, 26 Dec 2025 00:00:00 +0000</lastBuildDate><atom:link href="https://dongwenyu-amss.github.io/post/index.xml" rel="self" type="application/rss+xml" /><item>
+        <title>A Primal Finite Element Scheme of The Hodge Laplace Problem</title>
+        <link>https://dongwenyu-amss.github.io/p/a-primal-finite-element-scheme-of-the-hodge-laplace-problem/</link>
+        <pubDate>Fri, 26 Dec 2025 00:00:00 +0000</pubDate>
+        
+        <guid>https://dongwenyu-amss.github.io/p/a-primal-finite-element-scheme-of-the-hodge-laplace-problem/</guid>
+        <description>&lt;h3 id=&#34;finite-element&#34;&gt;Finite Element
+&lt;/h3&gt;&lt;p&gt;定义如下的有限元空间&lt;/p&gt;
+&lt;p&gt;$$&lt;/p&gt;
+&lt;pre&gt;&lt;code&gt;V_h := \{\mu_h\in P_{rd}(G_h):(rot_h\mu_h,\ita_h)-(\mu_h,curl\ita_h)=0,\forall\ita_h\in V_{h0}^{CR}, and (div_h\mu_h,\tau_h)-(\mu_h,\nabla_h\tau_h)=0,\forall\tau_h\in V_h^1\}
+&lt;/code&gt;&lt;/pre&gt;
+&lt;p&gt;$$&lt;/p&gt;
+&lt;p&gt;生成三角剖分&lt;/p&gt;
+</description>
+        </item>
+        <item>
         <title>2025年5月9日 颐和园</title>
         <link>https://dongwenyu-amss.github.io/p/2025%E5%B9%B45%E6%9C%889%E6%97%A5-%E9%A2%90%E5%92%8C%E5%9B%AD/</link>
         <pubDate>Fri, 09 May 2025 00:00:00 +0000</pubDate>
