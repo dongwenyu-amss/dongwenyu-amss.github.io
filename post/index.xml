@@ -7,7 +7,6 @@
         <generator>Hugo -- gohugo.io</generator>
         <language>en</language>
         <copyright>Dong Wenyu</copyright>
-<<<<<<< HEAD
         <lastBuildDate>Fri, 26 Dec 2025 00:00:00 +0000</lastBuildDate><atom:link href="https://dongwenyu-amss.github.io/post/index.xml" rel="self" type="application/rss+xml" /><item>
         <title>A Primal Finite Element Scheme of The Hodge Laplace Problem</title>
         <link>https://dongwenyu-amss.github.io/p/a-primal-finite-element-scheme-of-the-hodge-laplace-problem/</link>
@@ -22,16 +21,6 @@
 &lt;p&gt;$$&lt;/p&gt;
 &lt;p&gt;生成三角剖分&lt;/p&gt;
 </description>
-=======
-        <lastBuildDate>Fri, 28 Nov 2025 00:00:00 +0000</lastBuildDate><atom:link href="https://dongwenyu-amss.github.io/post/index.xml" rel="self" type="application/rss+xml" /><item>
-        <title>1128</title>
-        <link>https://dongwenyu-amss.github.io/p/1128/</link>
-        <pubDate>Fri, 28 Nov 2025 00:00:00 +0000</pubDate>
-        
-        <guid>https://dongwenyu-amss.github.io/p/1128/</guid>
-        <description>&lt;h3 id=&#34;1128随笔&#34;&gt;1128随笔
-&lt;/h3&gt;</description>
->>>>>>> 5e180c06e687d174f8383f70c1ff279e8a955c54
         </item>
         <item>
         <title>2025年5月9日 颐和园</title>
