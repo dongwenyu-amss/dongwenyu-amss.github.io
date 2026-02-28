@@ -19,7 +19,6 @@
 &lt;pre&gt;&lt;code&gt;V_h := \{\mu_h\in P_{rd}(G_h):(rot_h\mu_h,\ita_h)-(\mu_h,curl\ita_h)=0,\forall\ita_h\in V_{h0}^{CR}, and (div_h\mu_h,\tau_h)-(\mu_h,\nabla_h\tau_h)=0,\forall\tau_h\in V_h^1\}
 &lt;/code&gt;&lt;/pre&gt;
 &lt;p&gt;$$&lt;/p&gt;
-&lt;p&gt;生成三角剖分&lt;/p&gt;
 </description>
         </item>
         <item>
@@ -197,6 +196,25 @@
 		data-flex-basis=&#34;343px&#34;
 	
 &gt;&lt;/p&gt;
+</description>
+        </item>
+        <item>
+        <title>2026年春季学期工作计划</title>
+        <link>https://dongwenyu-amss.github.io/p/2026%E5%B9%B4%E6%98%A5%E5%AD%A3%E5%AD%A6%E6%9C%9F%E5%B7%A5%E4%BD%9C%E8%AE%A1%E5%88%92/</link>
+        <pubDate>Fri, 28 Feb 2025 00:00:00 +0000</pubDate>
+        
+        <guid>https://dongwenyu-amss.github.io/p/2026%E5%B9%B4%E6%98%A5%E5%AD%A3%E5%AD%A6%E6%9C%9F%E5%B7%A5%E4%BD%9C%E8%AE%A1%E5%88%92/</guid>
+        <description>&lt;ol&gt;
+&lt;li&gt;
+&lt;p&gt;三维非Ciarlet型有限元&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;PINN解poisson方程，维数越高越好&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Frequency Bias, 用脚本跑大量数据学习规律&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ol&gt;
 </description>
         </item>
         <item>
