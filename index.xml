@@ -206,7 +206,8 @@
         <guid>https://dongwenyu-amss.github.io/p/2026%E5%B9%B4%E6%98%A5%E5%AD%A3%E5%AD%A6%E6%9C%9F%E5%B7%A5%E4%BD%9C%E8%AE%A1%E5%88%92/</guid>
         <description>&lt;ol&gt;
 &lt;li&gt;
-&lt;p&gt;三维非Ciarlet型有限元&lt;/p&gt;
+&lt;p&gt;三维非Ciarlet型有限元
+&lt;a href=&#34;https://dongwenyu-amss.github.io/3D_NCFEM.pdf&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;工作进度总结&lt;/a&gt;&lt;/p&gt;&lt;/p&gt;
 &lt;/li&gt;
 &lt;li&gt;
 &lt;p&gt;PINN解poisson方程，维数越高越好&lt;/p&gt;
