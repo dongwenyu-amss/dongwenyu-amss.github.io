@@ -7,18 +7,39 @@
         <generator>Hugo -- gohugo.io</generator>
         <language>en</language>
         <copyright>Dong Wenyu</copyright>
-        <lastBuildDate>Fri, 26 Dec 2025 00:00:00 +0000</lastBuildDate><atom:link href="https://dongwenyu-amss.github.io/index.xml" rel="self" type="application/rss+xml" /><item>
-        <title>A Primal Finite Element Scheme of The Hodge Laplace Problem</title>
+        <lastBuildDate>Wed, 14 Oct 2026 00:00:00 +0000</lastBuildDate><atom:link href="https://dongwenyu-amss.github.io/index.xml" rel="self" type="application/rss+xml" /><item>
+        <title>Primal finite element scheme of the Hodge-Laplace problem</title>
         <link>https://dongwenyu-amss.github.io/p/a-primal-finite-element-scheme-of-the-hodge-laplace-problem/</link>
         <pubDate>Fri, 26 Dec 2025 00:00:00 +0000</pubDate>
         
         <guid>https://dongwenyu-amss.github.io/p/a-primal-finite-element-scheme-of-the-hodge-laplace-problem/</guid>
-        <description>&lt;h3 id=&#34;finite-element&#34;&gt;Finite Element
-&lt;/h3&gt;&lt;p&gt;定义如下的有限元空间&lt;/p&gt;
-&lt;p&gt;$$&lt;/p&gt;
-&lt;pre&gt;&lt;code&gt;V_h := \{\mu_h\in P_{rd}(G_h):(rot_h\mu_h,\ita_h)-(\mu_h,curl\ita_h)=0,\forall\ita_h\in V_{h0}^{CR}, and (div_h\mu_h,\tau_h)-(\mu_h,\nabla_h\tau_h)=0,\forall\tau_h\in V_h^1\}
-&lt;/code&gt;&lt;/pre&gt;
-&lt;p&gt;$$&lt;/p&gt;
+        <description>&lt;p&gt;&lt;strong&gt;作者：&lt;/strong&gt; Wenyu Dong、Shuo Zhang&lt;br&gt;
+&lt;strong&gt;预印本：&lt;/strong&gt; arXiv:2606.14273 · 2026 年 6 月 12 日&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;阅读全文：&lt;/strong&gt; &lt;a class=&#34;link&#34; href=&#34;https://arxiv.org/abs/2606.14273&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;arXiv 摘要与版本&lt;/a&gt; · &lt;a class=&#34;link&#34; href=&#34;https://arxiv.org/pdf/2606.14273&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;论文 PDF&lt;/a&gt; · &lt;a class=&#34;link&#34; href=&#34;https://arxiv.org/html/2606.14273v1&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;HTML 全文&lt;/a&gt;&lt;/p&gt;
+&lt;h2 id=&#34;研究问题&#34;&gt;研究问题
+&lt;/h2&gt;&lt;p&gt;Hodge–Laplace 问题的原始变分形式要求同时处理外微分与余微分，解空间为 $H\Lambda^k\cap H_0^*\Lambda^k$。直接采用常规协调分片多项式空间，可能遗漏奇异解成分，进而收敛到错误的极限。&lt;/p&gt;
+&lt;p&gt;这项工作研究如何直接离散原始形式，并保留区域拓扑所对应的调和结构。&lt;/p&gt;
+&lt;h2 id=&#34;构造思路伴随连续性&#34;&gt;构造思路：伴随连续性
+&lt;/h2&gt;&lt;p&gt;在单纯形网格上，用局部增广多项式构造非协调空间。单元间的耦合通过与 Whitney 型配对空间的离散伴随关系施加，得到一类非 Ciarlet 型有限元。&lt;/p&gt;
+&lt;p&gt;记这一空间为 $V_h$，$d_h$、$\delta_h$ 分别为逐单元的外微分与余微分。其关键性质是&lt;/p&gt;
+$$
+\mathfrak{H}_h
+=\{v_h\in V_h:\ d_hv_h=0,\ \delta_hv_h=0\},
+$$&lt;p&gt;其中 $\mathfrak{H}_h$ 是 FEEC 框架中的离散调和空间。这使离散算子的共同零空间能够反映非平凡拓扑，而不只是局部微分关系。&lt;/p&gt;
+&lt;h2 id=&#34;主要结果&#34;&gt;主要结果
+&lt;/h2&gt;&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;稳定性：&lt;/strong&gt; 在离散调和空间的正交补上，建立关于网格尺度一致的离散 Poincaré 不等式，保证格式适定。&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;局部实现：&lt;/strong&gt; 存在每个至多支撑于两个单元的基函数，可用于逐单元组装。&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;误差估计：&lt;/strong&gt; 在论文的正则性假设下，解及两个导数的组合误差在光滑情形为 $O(h)$；在 $s$-正则区域上为 $O(h^s)$，其中 $0&amp;lt;s\leq 1$。&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;数值验证与阅读指引&#34;&gt;数值验证与阅读指引
+&lt;/h2&gt;&lt;p&gt;论文比较了二维、三维带孔区域上的特征值计算，所提格式与混合格式的结果吻合；零特征空间的比较也支持其对拓扑结构的保持。&lt;/p&gt;
+&lt;p&gt;构造与主要定理见&lt;a class=&#34;link&#34; href=&#34;https://arxiv.org/html/2606.14273v1#S3&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;第 3 节&lt;/a&gt;，数值实验见&lt;a class=&#34;link&#34; href=&#34;https://arxiv.org/html/2606.14273v1#S6&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;第 6 节&lt;/a&gt;。本页依据预印本 v1 整理，完整假设与证明请参阅原文。&lt;/p&gt;
 </description>
         </item>
         <item>
@@ -1139,10 +1160,10 @@ $$&lt;p&gt;采用DeepRitz方法求解的python代码如下：&lt;/p&gt;
         
         <guid>https://dongwenyu-amss.github.io/about/</guid>
         <description>&lt;p&gt;我是董文宇（Dong Wenyu），一名计算数学研究生。&lt;/p&gt;
-&lt;p&gt;这里记录我对有限元方法、变分问题与科学机器学习的学习和思考，也收藏和朋友们一起出门的照片。&lt;/p&gt;
+&lt;p&gt;这里记录我对有限元方法、变分问题与科学机器学习的学习和思考，也用照片收藏个人旅途与日常中的风景。&lt;/p&gt;
 &lt;ul&gt;
 &lt;li&gt;&lt;a class=&#34;link&#34; href=&#34;https://dongwenyu-amss.github.io/research/&#34; &gt;研究笔记&lt;/a&gt;：理论整理、方法理解与代码实践。&lt;/li&gt;
-&lt;li&gt;&lt;a class=&#34;link&#34; href=&#34;https://dongwenyu-amss.github.io/photo-diary/&#34; &gt;四大天王&lt;/a&gt;：和朋友们一起走过的地方。&lt;/li&gt;
+&lt;li&gt;&lt;a class=&#34;link&#34; href=&#34;https://dongwenyu-amss.github.io/photo-diary/&#34; &gt;旅行随拍&lt;/a&gt;：我走过的地方与镜头里的风景。&lt;/li&gt;
 &lt;li&gt;&lt;a class=&#34;link&#34; href=&#34;https://github.com/dongwenyu-amss&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
     &gt;GitHub&lt;/a&gt;：我的代码主页。&lt;/li&gt;
 &lt;/ul&gt;
@@ -1220,7 +1241,7 @@ $$&lt;p&gt;对于每一步k，$ {x_{j,k}} $ 都是从 $\Omega$ 中随机选取�
         <description></description>
         </item>
         <item>
-        <title>四大天王</title>
+        <title>旅行随拍</title>
         <link>https://dongwenyu-amss.github.io/photo-diary/</link>
         <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
         
