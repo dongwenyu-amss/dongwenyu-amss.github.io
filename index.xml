@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
     <channel>
-        <title>Dong Wenyu</title>
+        <title>Dong Wenyu · 董文宇 on Dong Wenyu</title>
         <link>https://dongwenyu-amss.github.io/</link>
-        <description>Recent content on Dong Wenyu</description>
+        <description>Recent content in Dong Wenyu · 董文宇 on Dong Wenyu</description>
         <generator>Hugo -- gohugo.io</generator>
         <language>en</language>
         <copyright>Dong Wenyu</copyright>
@@ -19,27 +19,6 @@
 &lt;pre&gt;&lt;code&gt;V_h := \{\mu_h\in P_{rd}(G_h):(rot_h\mu_h,\ita_h)-(\mu_h,curl\ita_h)=0,\forall\ita_h\in V_{h0}^{CR}, and (div_h\mu_h,\tau_h)-(\mu_h,\nabla_h\tau_h)=0,\forall\tau_h\in V_h^1\}
 &lt;/code&gt;&lt;/pre&gt;
 &lt;p&gt;$$&lt;/p&gt;
-</description>
-        </item>
-        <item>
-        <title>2026年春季学期工作总结</title>
-        <link>https://dongwenyu-amss.github.io/p/2026%E5%B9%B4%E6%98%A5%E5%AD%A3%E5%AD%A6%E6%9C%9F%E5%B7%A5%E4%BD%9C%E6%80%BB%E7%BB%93/</link>
-        <pubDate>Mon, 14 Jul 2025 00:00:00 +0000</pubDate>
-        
-        <guid>https://dongwenyu-amss.github.io/p/2026%E5%B9%B4%E6%98%A5%E5%AD%A3%E5%AD%A6%E6%9C%9F%E5%B7%A5%E4%BD%9C%E6%80%BB%E7%BB%93/</guid>
-        <description>&lt;ol&gt;
-&lt;li&gt;
-&lt;p&gt;三维非Ciarlet型有限元
-预印本 &lt;a class=&#34;link&#34; href=&#34;https://arxiv.org/abs/2606.14273&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
-    &gt;https://arxiv.org/abs/2606.14273&lt;/a&gt;&lt;/p&gt;
-&lt;/li&gt;
-&lt;li&gt;
-&lt;p&gt;PINN解poisson方程，维数越高越好&lt;/p&gt;
-&lt;/li&gt;
-&lt;li&gt;
-&lt;p&gt;Frequency Bias, 用脚本跑大量数据学习规律&lt;/p&gt;
-&lt;/li&gt;
-&lt;/ol&gt;
 </description>
         </item>
         <item>
@@ -217,26 +196,6 @@
 		data-flex-basis=&#34;343px&#34;
 	
 &gt;&lt;/p&gt;
-</description>
-        </item>
-        <item>
-        <title>2026年春季学期工作计划</title>
-        <link>https://dongwenyu-amss.github.io/p/2026%E5%B9%B4%E6%98%A5%E5%AD%A3%E5%AD%A6%E6%9C%9F%E5%B7%A5%E4%BD%9C%E8%AE%A1%E5%88%92/</link>
-        <pubDate>Fri, 28 Feb 2025 00:00:00 +0000</pubDate>
-        
-        <guid>https://dongwenyu-amss.github.io/p/2026%E5%B9%B4%E6%98%A5%E5%AD%A3%E5%AD%A6%E6%9C%9F%E5%B7%A5%E4%BD%9C%E8%AE%A1%E5%88%92/</guid>
-        <description>&lt;ol&gt;
-&lt;li&gt;
-&lt;p&gt;三维非Ciarlet型有限元
-&lt;a href=&#34;https://dongwenyu-amss.github.io/3D_NCFEM.pdf&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;工作进度总结&lt;/a&gt;&lt;/p&gt;&lt;/p&gt;
-&lt;/li&gt;
-&lt;li&gt;
-&lt;p&gt;PINN解poisson方程，维数越高越好&lt;/p&gt;
-&lt;/li&gt;
-&lt;li&gt;
-&lt;p&gt;Frequency Bias, 用脚本跑大量数据学习规律&lt;/p&gt;
-&lt;/li&gt;
-&lt;/ol&gt;
 </description>
         </item>
         <item>
@@ -1179,7 +1138,14 @@ $$&lt;p&gt;采用DeepRitz方法求解的python代码如下：&lt;/p&gt;
         <pubDate>Thu, 13 Feb 2025 00:00:00 +0000</pubDate>
         
         <guid>https://dongwenyu-amss.github.io/about/</guid>
-        <description>&lt;p&gt;(待更新)&amp;hellip;&amp;hellip;&amp;hellip;&amp;hellip;&amp;hellip;..&lt;/p&gt;
+        <description>&lt;p&gt;我是董文宇（Dong Wenyu），一名计算数学研究生。&lt;/p&gt;
+&lt;p&gt;这里记录我对有限元方法、变分问题与科学机器学习的学习和思考，也收藏和朋友们一起出门的照片。&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a class=&#34;link&#34; href=&#34;https://dongwenyu-amss.github.io/research/&#34; &gt;研究笔记&lt;/a&gt;：理论整理、方法理解与代码实践。&lt;/li&gt;
+&lt;li&gt;&lt;a class=&#34;link&#34; href=&#34;https://dongwenyu-amss.github.io/four-kings/&#34; &gt;四大天王&lt;/a&gt;：和朋友们一起走过的地方。&lt;/li&gt;
+&lt;li&gt;&lt;a class=&#34;link&#34; href=&#34;https://github.com/dongwenyu-amss&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;GitHub&lt;/a&gt;：我的代码主页。&lt;/li&gt;
+&lt;/ul&gt;
 </description>
         </item>
         <item>
@@ -1251,6 +1217,22 @@ $$&lt;p&gt;对于每一步k，$ {x_{j,k}} $ 都是从 $\Omega$ 中随机选取�
         <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
         
         <guid>https://dongwenyu-amss.github.io/search/</guid>
+        <description></description>
+        </item>
+        <item>
+        <title>四大天王</title>
+        <link>https://dongwenyu-amss.github.io/four-kings/</link>
+        <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+        
+        <guid>https://dongwenyu-amss.github.io/four-kings/</guid>
+        <description></description>
+        </item>
+        <item>
+        <title>研究笔记</title>
+        <link>https://dongwenyu-amss.github.io/research/</link>
+        <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+        
+        <guid>https://dongwenyu-amss.github.io/research/</guid>
         <description></description>
         </item>
         
